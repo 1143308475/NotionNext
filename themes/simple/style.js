@@ -42,7 +42,7 @@ const Style = () => {
       background-image: linear-gradient(#dd3333, #dd3333);
       background-repeat: no-repeat;
       background-position: bottom center;
-      background-size: 0 2px;
+      background-size: 20 20px;
       transition: background-size 100ms ease-in-out;
   }
    
